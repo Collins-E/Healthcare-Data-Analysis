@@ -8,7 +8,7 @@ Analyze and preprocess a healthcare dataset to understand patient characteristic
 
 * Python
 * pandas
-* scikit-learn
+* scikit learn
 * seaborn
 * matplotlib
 
@@ -39,7 +39,7 @@ Analyze and preprocess a healthcare dataset to understand patient characteristic
 ## Data Preprocessing
 
 * Applied StandardScaler to normalize Age
-* Achieved mean ≈ 0 and standard deviation ≈ 1
+* Achieved mean = 0 and standard deviation = 1
 
 ## Model Preparation
 
@@ -57,4 +57,4 @@ Analyze and preprocess a healthcare dataset to understand patient characteristic
 
 ## Conclusion
 
-This project demonstrates a complete data preprocessing workflow, including cleaning, transformation, feature engineering, and preparation for modeling. The dataset is well-structured and suitable for predictive analytics.
+This project demonstrates a complete data preprocessing workflow, including cleaning, transformation, feature engineering, and preparation for modeling. The dataset is well structured and suitable for predictive analytics.
